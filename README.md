@@ -10,10 +10,10 @@ Bu proje, HTML, CSS ve JavaScript kullanarak oluşturduğum basit bir portfolyo 
 
 ## 🎯 Özellikler
 
-- Responsive (mobil uyumlu) tasarım
-- Hakkımda ve projeler bölümü
-- Basit animasyonlar
-- Temiz ve sade kod yapısı
+- Responsive (mobil uyumlu) tasarım ❌
+- Hakkımda ve projeler bölümü ✅
+- Basit animasyonlar ✅
+- Temiz ve sade kod yapısı ✅
 
 ## 🖼️ Ekran Görüntüsü
 
