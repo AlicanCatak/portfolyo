@@ -17,7 +17,7 @@ Bu proje, HTML, CSS ve JavaScript kullanarak oluşturduğum basit bir portfolyo 
 
 ## 🖼️ Ekran Görüntüsü
 
-`https://resmim.net/cdn/2025/06/03/TlqJdj.png`
+![Görsel](https://resmim.net/cdn/2025/06/03/TlqJdj.png)
 
 
 
